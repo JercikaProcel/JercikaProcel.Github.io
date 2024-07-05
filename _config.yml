@@ -4,10 +4,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hey there! 
   <br>
   I'm Jercika, a data-driven professional with 13 years of experience as an Order Management Analyst. 
+  <br>
   My passion for data analytics has led me to gain expertise in SQL, Tableau, Excel, Python, and R.
-  I’m eager to help companies extract meaningful insights from their data to inform decision-making and drive growth. 
-  I've developed key skills in flexibility, attention to detail, and diverse knowledge. 
-  <br><br>
+  <br>
+  My mission is to help companies extract meaningful insights from their data to inform decision-making and drive growth. 
+  <br>
   <a href="https://www.linkedin.com/in/jercika-procel/">View My LinkedIn Profile</a>   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
