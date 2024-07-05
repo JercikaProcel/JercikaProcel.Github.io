@@ -13,6 +13,7 @@
 <li>Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts</li>
 <li>Provided a comprehensive write-up to help the marketing team on their next campaign</li>
 
+
 ---
 #### [🏫 Evaluating School Success with Tableau Project](https://www.linkedin.com/pulse/massachusetts-education-data-analysis-tableau-jercika-procel-qcdee/)
 <img src="images/tableau.jpg"/>
