@@ -8,30 +8,21 @@
 <img src="images/doordash project.jpg"/>
 <h3>Excel | Exploratory Data Analysis</h3>
 
-<li>Real world-marketing campaign data</li>
-<li>Using only Excel for analysis and data visualization</li>
-<li>Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts</li>
-<li>Provided a comprehensive write-up to help the marketing team on their next campaign</li>
+In this project, I analyzed real-world marketing campaign data using Excel for both analysis and data visualization. I used VLOOKUPs, Pivot Tables, Scatter Plots, and Bar Charts to extract insights and identify trends. The final deliverable was a detailed write-up that provided actionable recommendations to assist the marketing team in planning their next campaign.
 
 ---
 
 #### [🏫 Evaluating School Success with Tableau Project](https://www.linkedin.com/pulse/massachusetts-education-data-analysis-tableau-jercika-procel-qcdee/)
 <img src="images/tableau.jpg"/>
 <h3>Tableau | Data Visualization</h3>
-<li>Created dashboard evaluating 1,800 different schools' performance across 100's of features</li>
-<li>Used Scatter Plots, KPI's, Bar Plots, & Area charts to show performance differences</li>
-<li>Write-up covers an in-depth analysis</li>
-<li>Presented dashboard to stakeholders via recorded video</li>
+For this project, I created a dashboard to evaluate the performance of 1,800 different schools across hundreds of features. Using Scatter Plots, KPIs, Bar Plots, and Area Charts, I illustrated performance differences and trends. The accompanying write-up provided an in-depth analysis of the data. To ensure clarity and accessibility, I presented the dashboard to stakeholders through a recorded video presentation.
 
 ---
 
 #### [💪 Bellabeat Fitness Data Analysis with R Project](https://www.kaggle.com/code/jercikaprocel/bellabeat-capstone-project)
 <img src="images/bellabeat.jpg"/>
 <h3>R | Exploratory Data Analysis</h3> 
-<li>Analyzed FitBit Fitness Tracker data containing 18 .csv files</li>
-<li>Utilized R packages such as tidyverse, lubridate, dplyr, ggplot2 and tidyr for data mining and visualizations</li>
-<li>Created R Notebook to explain code and present findings</li> 
-
+In this project, I analyzed FitBit Fitness Tracker data comprising 18 .csv files. I utilized R packages such as tidyverse, lubridate, dplyr, ggplot2, and tidyr for data mining and visualizations. To explain the code and present the findings clearly, I created an R Notebook, providing a comprehensive overview of the analysis process and results.
 
 ---
 
