@@ -5,9 +5,14 @@
 ### Learn About My Projects
 
 #### [🍔 DoorDash Marketing Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
+<img src="images/doordash project.jpg"/>
+<h3>Excel | Exploratory Data Analysis</h3>
+<ul>
+<li>Real world-marketing campaign data</li>
+<li>Using only Excel for analysis and data visualization</li>
+<li>Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts</li>
+<li>Provided a comprehensive write-up to help the marketing team on their next campaign</li>
+</ul>
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
