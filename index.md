@@ -7,40 +7,29 @@
 #### [🍔 DoorDash Marketing Project](https://www.linkedin.com/pulse/unlocking-success-analyzing-doordash-data-excel-jercika-procel-c5bye/?trackingId=J%2Fv68MeBQ4yH0bSoGCGswQ%3D%3D)
 <img src="images/doordash project.jpg"/>
 <h3>Excel | Exploratory Data Analysis</h3>
-<ul>
+
 <li>Real world-marketing campaign data</li>
 <li>Using only Excel for analysis and data visualization</li>
 <li>Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts</li>
 <li>Provided a comprehensive write-up to help the marketing team on their next campaign</li>
-</ul>
----
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [🏫 Evaluating School Success with Tableau Project](https://www.linkedin.com/pulse/massachusetts-education-data-analysis-tableau-jercika-procel-qcdee/)
+<img src="images/tableau.jpg"/>
+<h3>Tableau | Data Visualization</h3>
+<li>Created dashboard evaluating 1,800 different schools' performance across 100's of features</li>
+<li>Used Scatter Plots, KPI's, Bar Plots, & Area charts to show performance differences</li>
+<li>Write-up covers an in-depth analysis</li>
+<li>Presented dashboard to stakeholders via recorded video</li>
 
 ---
+#### [💪 Bellabeat Fitness Data Analysis with R Project](https://www.kaggle.com/code/jercikaprocel/bellabeat-capstone-project)
+<img src="images/bellabeat.jpg"/>
+<h3>R | Exploratory Data Analysis</h3> 
+<li>Analyzed FitBit Fitness Tracker data containing 18 .csv files</li>
+<li>Utilized R packages such as tidyverse, lubridate, dplyr, ggplot2 and tidyr for data mining and visualizations</li>
+<li>Created R Notebook to explain code and present findings</li> 
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
