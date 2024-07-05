@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [🍔 DoorDash Marketing Project](/bank)
+#### [🍔 DoorDash Marketing Project](https://www.linkedin.com/pulse/unlocking-success-analyzing-doordash-data-excel-jercika-procel-c5bye/?trackingId=J%2Fv68MeBQ4yH0bSoGCGswQ%3D%3D)
 <img src="images/doordash project.jpg"/>
 <h3>Excel | Exploratory Data Analysis</h3>
 <ul>
