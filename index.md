@@ -13,8 +13,8 @@
 <li>Utilized VLOOKUPS, Pivot Tables, Scatter Plots, & Bar Charts</li>
 <li>Provided a comprehensive write-up to help the marketing team on their next campaign</li>
 
-
 ---
+
 #### [🏫 Evaluating School Success with Tableau Project](https://www.linkedin.com/pulse/massachusetts-education-data-analysis-tableau-jercika-procel-qcdee/)
 <img src="images/tableau.jpg"/>
 <h3>Tableau | Data Visualization</h3>
@@ -24,6 +24,7 @@
 <li>Presented dashboard to stakeholders via recorded video</li>
 
 ---
+
 #### [💪 Bellabeat Fitness Data Analysis with R Project](https://www.kaggle.com/code/jercikaprocel/bellabeat-capstone-project)
 <img src="images/bellabeat.jpg"/>
 <h3>R | Exploratory Data Analysis</h3> 
