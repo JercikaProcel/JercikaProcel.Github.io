@@ -3,11 +3,15 @@ logo: "images/IMG_0085_processed (2).jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hey there! 
   <br>
+  <br>
   I'm Jercika, a data-driven professional with 13 years of experience as an Order Management Analyst. 
   <br>
-  My passion for data analytics has led me to gain expertise in SQL, Tableau, Excel, Python, and R.
+  <br>
+  My passion for data analytics has led me to develop proficiency in SQL, Tableau, Excel, Python, and R.
+  <br>
   <br>
   My mission is to help companies extract meaningful insights from their data to inform decision-making and drive growth. 
+  <br>
   <br>
   <a href="https://www.linkedin.com/in/jercika-procel/">View My LinkedIn Profile</a>   
 theme: jekyll-theme-minimal
