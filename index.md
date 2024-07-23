@@ -15,7 +15,14 @@ In this project, I analyzed real-world marketing campaign data using Excel for b
 #### [🏫 Evaluating School Success with Tableau Project](https://www.linkedin.com/pulse/massachusetts-education-data-analysis-tableau-jercika-procel-qcdee/)
 <img src="images/tableau.jpg"/>
 <h3>Tableau | Data Visualization</h3>
-For this project, I created a dashboard to evaluate the performance of 1,800 different schools across hundreds of features. Using Scatter Plots, KPIs, Bar Plots, and Area Charts, I illustrated performance differences and trends. The accompanying write-up provided an in-depth analysis of the data. To ensure clarity and accessibility, I presented the dashboard to stakeholders through a recorded video presentation.
+In this project, I used SQL for exploratory data analysis, data-mining 1.31 million real bank transactions to identify financial outliers, patterns, and trends. I used SQL clauses such as SELECT, WHERE, FROM, GROUP BY, AVG, MIN/MAX, SUM, and AND to analyze the data meticulously. The insights gained from this analysis were compiled into a comprehensive written report that highlighted key findings and actionable insights.
+
+---
+
+#### [💵 Financial Analysis of World Bank Loans](https://www.linkedin.com/pulse/how-world-bank-initiatives-shape-global-development-sql-based-procel-jxjge/)
+<img src="images/tableau.jpg"/>
+<h3>Tableau | Data Visualization</h3>
+In this project, I used SQL for exploratory data analysis, data-mining 1.31 million real bank transactions to identify financial outliers, patterns, and trends. I used various SQL clauses such as SELECT, WHERE, FROM, GROUP BY, AVG, MIN/MAX, SUM, and AND to thoroughly analyze the data. The insights gained from this analysis were compiled into a comprehensive written report that highlighted key findings and actionable insights.
 
 ---
 
